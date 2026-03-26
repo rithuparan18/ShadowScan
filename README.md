@@ -23,8 +23,8 @@ shadowscan/
 ├── modules/
 │   ├── __init__.py     # Module Exporter
 │   ├── scanner.py      # Core Discovery & Port Scanning Logic
-│   └── secrets.py      # JS Scraping & Secret Mining Module
-└── utils/              # UI Formatting & Logging Utilities (Coming Soon)
+│   ├── secrets.py      # JS Scraping & Secret Mining Module
+|   └── bruteforce.py
 ```
 
 ---
